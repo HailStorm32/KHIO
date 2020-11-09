@@ -10,6 +10,7 @@ $RECYCLE.BIN/
 
 #Custom
 _PackageInt
+Packages
 
 # Windows Installer files
 *.cab
