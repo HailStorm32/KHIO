@@ -1803,9 +1803,9 @@
 		<TaxiwayPoint index="577" type="NORMAL" orientation="FORWARD" lat="45.55046568802852" lon="-122.95545407567172"/>
 		<TaxiwayPoint index="578" type="NORMAL" orientation="FORWARD" lat="45.55046666270334" lon="-122.95552158074420"/>
 		<TaxiwayParking index="1776" type="RAMP_GA_SMALL" lat="45.53540602555332" lon="-122.95225997937104" heading="89.940460" radius="5.000000" name="PARKING" number="0" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<TaxiwayParking index="1762" type="RAMP_GA_SMALL" lat="45.53541499412882" lon="-122.95251816132981" heading="-88.867088" radius="5.000000" name="PARKING" number="1" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<TaxiwayParking index="1763" type="RAMP_GA_SMALL" lat="45.53530293878730" lon="-122.95252386669060" heading="-87.908562" radius="5.000000" name="PARKING" number="2" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<TaxiwayParking index="1764" type="RAMP_GA_SMALL" lat="45.53519258136568" lon="-122.95252670533392" heading="-87.368355" radius="5.000000" name="PARKING" number="3" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking index="1762" type="RAMP_GA_SMALL" lat="45.53541499412882" lon="-122.95251816132981" heading="271.132904" radius="5.000000" name="PARKING" number="1" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking index="1763" type="RAMP_GA_SMALL" lat="45.53530293878730" lon="-122.95252386669060" heading="272.091431" radius="5.000000" name="PARKING" number="2" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking index="1764" type="RAMP_GA_SMALL" lat="45.53519258136568" lon="-122.95252670533392" heading="272.631653" radius="5.000000" name="PARKING" number="3" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<TaxiwayParking index="1768" type="RAMP_GA_SMALL" lat="45.53547074153562" lon="-122.95262118718297" heading="92.349762" radius="5.000000" name="PARKING" number="4" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<TaxiwayParking index="1767" type="RAMP_GA_SMALL" lat="45.53536053452020" lon="-122.95262549233583" heading="92.864288" radius="5.000000" name="PARKING" number="5" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<TaxiwayParking index="1766" type="RAMP_GA_SMALL" lat="45.53525304768115" lon="-122.95263934240593" heading="92.818993" radius="5.000000" name="PARKING" number="6" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
@@ -3404,6 +3404,116 @@
 		<TaxiwayPath type="TAXI" surface="{37AF92FE-A9CA-4A6A-AA94-5EDAA61AEC86}" centerLine="TRUE" start="1049" end="1050" width="12.000000" weightLimit="0" name="26" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
 		<TaxiwayPath type="TAXI" surface="{37AF92FE-A9CA-4A6A-AA94-5EDAA61AEC86}" centerLine="TRUE" start="1050" end="1051" width="12.000000" weightLimit="0" name="26" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
 		<TaxiwayPath type="TAXI" surface="{37AF92FE-A9CA-4A6A-AA94-5EDAA61AEC86}" centerLine="TRUE" start="1512" end="1513" width="12.000000" weightLimit="0" name="26" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwaySign lat="45.55011207826860" lon="-122.95604549491654" heading="144.519653" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.55015348355799" lon="-122.95572863342488" heading="229.575806" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.55032952771477" lon="-122.95609193359059" heading="144.190063" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.53592700766961" lon="-122.94561606162056" heading="237.167358" label="dA8&gt;" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.53515370744840" lon="-122.94480616726156" heading="53.459473" label="dA9&gt;" justification="RIGHT" size="SIZE3"/>
+		<TaxiwaySign lat="45.53358011312294" lon="-122.95108606627569" heading="221.528320" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.53360308772122" lon="-122.95101023306192" heading="169.744263" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.53365403144952" lon="-122.95146664479894" heading="247.412109" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.53384819972791" lon="-122.95123177345094" heading="196.424561" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.53417678575060" lon="-122.95152556980035" heading="128.995972" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.53438475895860" lon="-122.95188058149215" heading="126.881104" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.53451088443251" lon="-122.94510816333052" heading="146.063232" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.53451100666932" lon="-122.95236455175898" heading="262.282104" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.53476254450504" lon="-122.94623446329598" heading="109.418335" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.53477481087288" lon="-122.94553009532481" heading="236.766357" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.53484696689345" lon="-122.94521835991959" heading="145.200806" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.53503515133880" lon="-122.94667596056583" heading="104.326172" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.53527633120549" lon="-122.94591879022316" heading="143.486938" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.53554457437407" lon="-122.94635790933573" heading="231.838989" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.53562023082200" lon="-122.94603648767983" heading="144.970093" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.53562189403514" lon="-122.94761201644243" heading="91.829224" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.53565874361775" lon="-122.94704508984707" heading="46.680908" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.53630812104069" lon="-122.94772137998255" heading="238.436279" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.53634535324500" lon="-122.94718642366821" heading="95.245972" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.53657134240792" lon="-122.94799632447577" heading="236.343384" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.53678733189756" lon="-122.94845507472623" heading="126.688843" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.53693100470473" lon="-122.94774930625097" heading="180.000000" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.53699296593898" lon="-122.94766857383399" heading="130.902100" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.53700766237779" lon="-122.94675101790867" heading="230.108643" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.53705538026031" lon="-122.94872348014684" heading="127.897339" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.53709401562858" lon="-122.94939811874819" heading="125.952759" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.53717080579971" lon="-122.94800155398504" heading="97.454224" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.53738373660583" lon="-122.94884291530109" heading="235.041504" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.53738768829455" lon="-122.94715165531787" heading="233.849487" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.53739758163130" lon="-122.94966635986219" heading="233.893433" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.53741512056189" lon="-122.94898279433488" heading="198.391113" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.53749435118615" lon="-122.94633857303231" heading="232.014771" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.53753778206580" lon="-122.94815874821181" heading="128.166504" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.53761137477149" lon="-122.94921078570465" heading="133.319092" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.53771763772778" lon="-122.94863202412972" heading="220.616455" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.53774993599201" lon="-122.94854936267755" heading="129.682617" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.53782998957006" lon="-122.94667122997252" heading="232.283936" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.53789978443245" lon="-122.94592221128740" heading="127.496338" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.53790218273099" lon="-122.94938833977618" heading="233.020020" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.53803476524882" lon="-122.94904815118083" heading="55.079956" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.53809503692784" lon="-122.94790290346468" heading="233.706665" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.53809887808163" lon="-122.94871041795173" heading="131.726074" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.53845680178973" lon="-122.94648226074050" heading="130.627441" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.53859666920397" lon="-122.94842442353260" heading="234.255981" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.53875977883391" lon="-122.95029081111535" heading="234.244995" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.53891328394962" lon="-122.94780816748961" heading="238.881226" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.53901696194498" lon="-122.94713567747785" heading="124.672852" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.53902499250979" lon="-122.94791625536988" heading="237.617798" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.53906395123121" lon="-122.94952173359832" heading="267.528076" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.53966673311192" lon="-122.94434266754941" heading="216.672363" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.53974373838190" lon="-122.95023167782384" heading="205.076294" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.53986401588300" lon="-122.94483895145027" heading="134.615479" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.54004565043867" lon="-122.94521110200859" heading="125.386963" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.54023259571023" lon="-122.94439874430623" heading="130.056152" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.54037513412858" lon="-122.94553785164450" heading="222.385254" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.54045656304981" lon="-122.94472430397758" heading="129.841919" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.54053191119389" lon="-122.94577101822327" heading="132.698364" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.54053945740724" lon="-122.95168722818418" heading="236.848755" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.54061585256471" lon="-122.94525242866636" heading="218.199463" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.54064435458015" lon="-122.94518790366078" heading="131.385498" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.54074508364899" lon="-122.95068447235651" heading="234.942627" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.54088964429512" lon="-122.94559587301762" heading="230.745850" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.54107156792299" lon="-122.95272819052032" heading="236.585083" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.54127831468063" lon="-122.94194856859153" heading="127.836914" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.54162409600949" lon="-122.94209060556807" heading="253.196411" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.54175739857141" lon="-122.94182126960413" heading="215.408936" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.54177601037357" lon="-122.94258273818866" heading="128.589478" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.54181548301007" lon="-122.95180382856402" heading="232.608032" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.54184411351286" lon="-122.95305542380108" heading="231.877441" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.54194973108873" lon="-122.95268623633380" heading="145.673218" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.54196192439933" lon="-122.94295315908433" heading="126.859131" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.54221850505900" lon="-122.94775817846413" heading="142.487183" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.54226849792681" lon="-122.94744335815005" heading="238.826294" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.54232418553961" lon="-122.94827230289147" heading="232.503662" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.54236412136646" lon="-122.95238058763039" heading="232.014771" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.54244156474466" lon="-122.94780543311217" heading="142.932129" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.54251107890595" lon="-122.94301963331453" heading="218.633423" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.54258797757106" lon="-122.94777622344938" heading="233.805542" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.54288209293716" lon="-122.95462072563205" heading="231.185303" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.54337349476057" lon="-122.95466703491105" heading="231.119385" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.54344227200276" lon="-122.95351639541757" heading="233.525391" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.54354459917563" lon="-122.95532736077200" heading="233.854980" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.54409875853663" lon="-122.95011457427262" heading="228.164063" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.54417251035500" lon="-122.95525752016266" heading="144.157104" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.54443179233500" lon="-122.95007808555981" heading="142.888184" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.54447352746643" lon="-122.94976077463878" heading="227.774048" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.54464267200842" lon="-122.95540625323800" heading="198.632813" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.54464997318042" lon="-122.95012721871960" heading="142.514648" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.54465683198029" lon="-122.95070014594734" heading="230.476685" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.54465734670717" lon="-122.95479171289530" heading="237.667236" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.54473488312684" lon="-122.95652490307798" heading="237.985840" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.54492753983928" lon="-122.94984054870669" heading="228.922119" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.54518476846154" lon="-122.95533606962388" heading="231.229248" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.54548360571410" lon="-122.95638961694929" heading="146.557617" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.54589711500889" lon="-122.95608374681863" heading="233.448486" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.54677029680010" lon="-122.95292220787748" heading="230.674438" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.54703892102341" lon="-122.95281766350075" heading="145.327148" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.54708457632969" lon="-122.95249970707455" heading="233.481445" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.54726234999021" lon="-122.95287088278357" heading="144.937134" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.54726526997482" lon="-122.95344755893083" heading="236.826782" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.54753588764937" lon="-122.95258199262175" heading="231.317139" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.54887419384554" lon="-122.95921549221471" heading="236.079712" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.54888226538983" lon="-122.95996372427933" heading="147.870483" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.54925954696777" lon="-122.96036186329229" heading="143.805542" label="uX" justification="LEFT" size="SIZE3"/>
+		<TaxiwaySign lat="45.54988252722197" lon="-122.95619131665400" heading="232.904663" label="uX" justification="LEFT" size="SIZE3"/>
 		<Runway lat="45.53807954555864" lon="-122.94722620554468" alt="59.21115547511727" heading="39.62801742553711" length="1158.76806640625000" width="23.00000000000000" patternAltitude="304.00000000000000" surface="{2E0DE83F-B79A-4435-905C-DCBBEAC55C59}" transparent="FALSE" number="02" designator="NONE" primaryLanding="TRUE" primaryTakeoff="TRUE" primaryPattern="LEFT" secondaryLanding="TRUE" secondaryTakeoff="TRUE" secondaryPattern="LEFT" primaryMarkingBias="0.00000000000000" secondaryMarkingBias="0.00000000000000" groundMerging="TRUE" excludeVegetationAround="TRUE">
 			<Markings edges="TRUE" threshold="FALSE" alternateThreshold="FALSE" fixedDistance="FALSE" alternateFixedDistance="FALSE" touchdown="FALSE" alternateTouchdown="FALSE" dashes="TRUE" ident="TRUE" leadingZeroIdent="FALSE" precision="FALSE" alternatePrecision="FALSE" edgePavement="TRUE" singleEnd="FALSE" primaryClosed="FALSE" secondaryClosed="FALSE" primaryStol="FALSE" secondaryStol="FALSE" noThresholdEndArrows="FALSE"/>
 			<Lights center="NONE" edge="MEDIUM"/>
@@ -3444,7 +3554,255 @@
 		<Helipad type="NONE" lat="45.53343111648859" lon="-122.94507811664293" alt="59.73786767851561" heading="180.000000" length="8.696521" width="8.696521" surface="CEMENT" closed="FALSE" transparent="FALSE"/>
 		<Helipad type="NONE" lat="45.53355626635784" lon="-122.94506909694927" alt="59.70346291363239" heading="180.000000" length="8.696521" width="8.696521" surface="CEMENT" closed="FALSE" transparent="FALSE"/>
 		<Helipad type="NONE" lat="45.53368034239804" lon="-122.94506331227295" alt="59.71364479232579" heading="180.000000" length="8.696521" width="8.696521" surface="CEMENT" closed="FALSE" transparent="FALSE"/>
-		<Aprons/>
+		<Aprons>
+			<Apron surface="{37AF92FE-A9CA-4A6A-AA94-5EDAA61AEC86}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="FALSE" priority="0" tiling="25.000000" heading="0.000000" falloff="0.000000" opacity="255" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
+				<Vertex lat="45.53383564420723" lon="-122.95084810881289"/>
+				<Vertex lat="45.53366831794303" lon="-122.95082958439635"/>
+				<Vertex lat="45.53334696170864" lon="-122.95084768509285"/>
+				<Vertex lat="45.53327020463280" lon="-122.95111912958291"/>
+				<Vertex lat="45.53281049389743" lon="-122.95112701184577"/>
+				<Vertex lat="45.53277223638677" lon="-122.95099763059555"/>
+				<Vertex lat="45.53273313700785" lon="-122.95095359784666"/>
+				<Vertex lat="45.53271465965268" lon="-122.95034507185252"/>
+				<Vertex lat="45.53263410501466" lon="-122.95006356836068"/>
+				<Vertex lat="45.53262538124210" lon="-122.94946533691800"/>
+				<Vertex lat="45.53268714077735" lon="-122.94932496084327"/>
+				<Vertex lat="45.53268296083915" lon="-122.94924065001824"/>
+				<Vertex lat="45.53301586410291" lon="-122.94923104034712"/>
+				<Vertex lat="45.53324182834348" lon="-122.94922524955253"/>
+				<Vertex lat="45.53323836748954" lon="-122.94846412125436"/>
+				<Vertex lat="45.53325831574271" lon="-122.94829655674944"/>
+				<Vertex lat="45.53324990548391" lon="-122.94808007394606"/>
+				<Vertex lat="45.53323404391092" lon="-122.94715863033336"/>
+				<Vertex lat="45.53321264325533" lon="-122.94620012816932"/>
+				<Vertex lat="45.53320203935394" lon="-122.94550587141748"/>
+				<Vertex lat="45.53266535182208" lon="-122.94553293067209"/>
+				<Vertex lat="45.53266022739096" lon="-122.94542170631763"/>
+				<Vertex lat="45.53262597662192" lon="-122.94542183737424"/>
+				<Vertex lat="45.53262547655680" lon="-122.94506860019402"/>
+				<Vertex lat="45.53262746996491" lon="-122.94504643537991"/>
+				<Vertex lat="45.53356378675668" lon="-122.94500750792078"/>
+				<Vertex lat="45.53389920515954" lon="-122.94484979774276"/>
+				<Vertex lat="45.53406913506944" lon="-122.94557604916224"/>
+				<Vertex lat="45.53408814104680" lon="-122.94560251449936"/>
+				<Vertex lat="45.53411311362910" lon="-122.94561090688431"/>
+				<Vertex lat="45.53414494647949" lon="-122.94560622911280"/>
+				<Vertex lat="45.53432142176899" lon="-122.94552427032806"/>
+				<Vertex lat="45.53461783335513" lon="-122.94677904279845"/>
+				<Vertex lat="45.53434946057526" lon="-122.94691294927208"/>
+				<Vertex lat="45.53434079370838" lon="-122.94692642643525"/>
+				<Vertex lat="45.53434201352655" lon="-122.94695254430707"/>
+				<Vertex lat="45.53438486656130" lon="-122.94718805132116"/>
+				<Vertex lat="45.53440135340715" lon="-122.94724806074998"/>
+				<Vertex lat="45.53441712531227" lon="-122.94729126669573"/>
+				<Vertex lat="45.53444522196121" lon="-122.94732309242991"/>
+				<Vertex lat="45.53447324448947" lon="-122.94735024767940"/>
+				<Vertex lat="45.53452333885646" lon="-122.94736559422950"/>
+				<Vertex lat="45.53452923730867" lon="-122.94758332864814"/>
+				<Vertex lat="45.53449563285275" lon="-122.94758262355295"/>
+				<Vertex lat="45.53447270576748" lon="-122.94760886360756"/>
+				<Vertex lat="45.53443882878089" lon="-122.94766636768402"/>
+				<Vertex lat="45.53441515459805" lon="-122.94772651585430"/>
+				<Vertex lat="45.53440173659965" lon="-122.94779622306395"/>
+				<Vertex lat="45.53440108572162" lon="-122.94784579013223"/>
+				<Vertex lat="45.53437180459684" lon="-122.94788761790610"/>
+				<Vertex lat="45.53404446988628" lon="-122.94969750650682"/>
+			</Apron>
+			<Apron surface="{37AF92FE-A9CA-4A6A-AA94-5EDAA61AEC86}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" priority="0" tiling="25.000000" heading="0.000000" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
+				<Vertex lat="45.53488848288703" lon="-122.94644229855292"/>
+				<Vertex lat="45.53486714090763" lon="-122.94644004321680"/>
+				<Vertex lat="45.53484691150760" lon="-122.94642831927712"/>
+				<Vertex lat="45.53481445343293" lon="-122.94640602902113"/>
+				<Vertex lat="45.53477851708112" lon="-122.94638658329460"/>
+				<Vertex lat="45.53475440522077" lon="-122.94636401525212"/>
+				<Vertex lat="45.53473447626067" lon="-122.94634481856950"/>
+				<Vertex lat="45.53471528693552" lon="-122.94630354996157"/>
+				<Vertex lat="45.53470298392293" lon="-122.94626611056128"/>
+				<Vertex lat="45.53469167768639" lon="-122.94622427788045"/>
+				<Vertex lat="45.53467766852447" lon="-122.94617918568304"/>
+				<Vertex lat="45.53466513050505" lon="-122.94612520975272"/>
+				<Vertex lat="45.53465873061077" lon="-122.94609087455434"/>
+				<Vertex lat="45.53465941519613" lon="-122.94605189407856"/>
+				<Vertex lat="45.53465839530941" lon="-122.94603895822560"/>
+				<Vertex lat="45.53432496536323" lon="-122.94552710636449"/>
+				<Vertex lat="45.53431712003844" lon="-122.94553928374317"/>
+				<Vertex lat="45.53461714937450" lon="-122.94678494905450"/>
+				<Vertex lat="45.53494869772616" lon="-122.94663246825075"/>
+			</Apron>
+			<Apron surface="{37AF92FE-A9CA-4A6A-AA94-5EDAA61AEC86}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" priority="0" tiling="25.000000" heading="0.000000" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
+				<Vertex lat="45.53431817900342" lon="-122.94552650724870"/>
+				<Vertex lat="45.53433376261000" lon="-122.94551685414568"/>
+				<Vertex lat="45.53434960517419" lon="-122.94548903215804"/>
+				<Vertex lat="45.53447445257805" lon="-122.94524225904303"/>
+				<Vertex lat="45.53447493790832" lon="-122.94520885981755"/>
+				<Vertex lat="45.53445289601631" lon="-122.94518859329570"/>
+				<Vertex lat="45.53434024444526" lon="-122.94508966591468"/>
+				<Vertex lat="45.53438995449900" lon="-122.94497014083167"/>
+				<Vertex lat="45.53439478824178" lon="-122.94496062558353"/>
+				<Vertex lat="45.53442426983628" lon="-122.94498653948088"/>
+				<Vertex lat="45.53438866387904" lon="-122.94506546902537"/>
+				<Vertex lat="45.53439338185205" lon="-122.94508147690560"/>
+				<Vertex lat="45.53446512864459" lon="-122.94514330864035"/>
+				<Vertex lat="45.53447229445080" lon="-122.94513541080816"/>
+				<Vertex lat="45.53447616549873" lon="-122.94510960326470"/>
+				<Vertex lat="45.53448209101940" lon="-122.94509284578992"/>
+				<Vertex lat="45.53448998676347" lon="-122.94507989523079"/>
+				<Vertex lat="45.53450177079915" lon="-122.94505980967550"/>
+				<Vertex lat="45.53451362474356" lon="-122.94505291221495"/>
+				<Vertex lat="45.53453541057497" lon="-122.94505301678619"/>
+				<Vertex lat="45.53455648325148" lon="-122.94505060871059"/>
+				<Vertex lat="45.53457416423383" lon="-122.94504146733752"/>
+				<Vertex lat="45.53459292180453" lon="-122.94501785499004"/>
+				<Vertex lat="45.53471162690199" lon="-122.94478782840736"/>
+				<Vertex lat="45.53472041458630" lon="-122.94476407611423"/>
+				<Vertex lat="45.53472340584147" lon="-122.94474489812016"/>
+				<Vertex lat="45.53472344584341" lon="-122.94472750425514"/>
+				<Vertex lat="45.53472160724391" lon="-122.94469876128471"/>
+				<Vertex lat="45.53471079232638" lon="-122.94467614652910"/>
+				<Vertex lat="45.53469550329282" lon="-122.94466103647925"/>
+				<Vertex lat="45.53467162757059" lon="-122.94464009223674"/>
+				<Vertex lat="45.53465440512701" lon="-122.94462175571414"/>
+				<Vertex lat="45.53467493297720" lon="-122.94457968622315"/>
+				<Vertex lat="45.53469975908781" lon="-122.94461056818619"/>
+				<Vertex lat="45.53472560151472" lon="-122.94463408221525"/>
+				<Vertex lat="45.53473563771939" lon="-122.94464075306333"/>
+				<Vertex lat="45.53474958363896" lon="-122.94464064631687"/>
+				<Vertex lat="45.53477003093961" lon="-122.94464026301367"/>
+				<Vertex lat="45.53478396021989" lon="-122.94463696846688"/>
+				<Vertex lat="45.53479636156512" lon="-122.94461866087721"/>
+				<Vertex lat="45.53487308931892" lon="-122.94446967858572"/>
+				<Vertex lat="45.53525194628914" lon="-122.94486489892348"/>
+				<Vertex lat="45.53523650370927" lon="-122.94485993654020"/>
+				<Vertex lat="45.53521463546127" lon="-122.94485690681022"/>
+				<Vertex lat="45.53520305642397" lon="-122.94486039067368"/>
+				<Vertex lat="45.53518980075574" lon="-122.94486851212834"/>
+				<Vertex lat="45.53517172270955" lon="-122.94487277469698"/>
+				<Vertex lat="45.53515621351590" lon="-122.94486682548991"/>
+				<Vertex lat="45.53513683583174" lon="-122.94484694467529"/>
+				<Vertex lat="45.53511788075691" lon="-122.94482747361499"/>
+				<Vertex lat="45.53509794617879" lon="-122.94481312632665"/>
+				<Vertex lat="45.53507471368114" lon="-122.94480086086011"/>
+				<Vertex lat="45.53505263963095" lon="-122.94480582342803"/>
+				<Vertex lat="45.53503466492584" lon="-122.94481041113839"/>
+				<Vertex lat="45.53501905051758" lon="-122.94483349848764"/>
+				<Vertex lat="45.53488944656903" lon="-122.94508037570129"/>
+				<Vertex lat="45.53488025611058" lon="-122.94511007814795"/>
+				<Vertex lat="45.53488055272537" lon="-122.94513580783848"/>
+				<Vertex lat="45.53488363623718" lon="-122.94516761641361"/>
+				<Vertex lat="45.53488434720990" lon="-122.94519869884712"/>
+				<Vertex lat="45.53487819918427" lon="-122.94523504118278"/>
+				<Vertex lat="45.53487042296803" lon="-122.94526175461721"/>
+				<Vertex lat="45.53485546395601" lon="-122.94527706432963"/>
+				<Vertex lat="45.53483828438939" lon="-122.94528534806761"/>
+				<Vertex lat="45.53482038905681" lon="-122.94529488100497"/>
+				<Vertex lat="45.53480552974440" lon="-122.94529654319707"/>
+				<Vertex lat="45.53478801327329" lon="-122.94530427014769"/>
+				<Vertex lat="45.53477645609062" lon="-122.94530969207568"/>
+				<Vertex lat="45.53476028738008" lon="-122.94533000947131"/>
+				<Vertex lat="45.53474435119080" lon="-122.94536961031785"/>
+				<Vertex lat="45.53473984478531" lon="-122.94539986443117"/>
+				<Vertex lat="45.53474172336937" lon="-122.94542679705870"/>
+				<Vertex lat="45.53475075376632" lon="-122.94545651360166"/>
+				<Vertex lat="45.53476183612781" lon="-122.94547367978606"/>
+				<Vertex lat="45.53477782779248" lon="-122.94548881624985"/>
+				<Vertex lat="45.53479194491096" lon="-122.94551103272869"/>
+				<Vertex lat="45.53480199648176" lon="-122.94553085093987"/>
+				<Vertex lat="45.53480635435829" lon="-122.94557586256360"/>
+				<Vertex lat="45.53480649576613" lon="-122.94560910123982"/>
+				<Vertex lat="45.53481157208555" lon="-122.94564560033450"/>
+				<Vertex lat="45.53482267830694" lon="-122.94567219373413"/>
+				<Vertex lat="45.53484470750856" lon="-122.94570092244341"/>
+				<Vertex lat="45.53513530998282" lon="-122.94607795713783"/>
+				<Vertex lat="45.53515775519049" lon="-122.94608726037418"/>
+				<Vertex lat="45.53518091110129" lon="-122.94608973538143"/>
+				<Vertex lat="45.53519910857599" lon="-122.94608651491262"/>
+				<Vertex lat="45.53521439778650" lon="-122.94607530412091"/>
+				<Vertex lat="45.53523046085258" lon="-122.94606171537126"/>
+				<Vertex lat="45.53523939590837" lon="-122.94604582470184"/>
+				<Vertex lat="45.53524511166737" lon="-122.94602343059722"/>
+				<Vertex lat="45.53524543916809" lon="-122.94599260823153"/>
+				<Vertex lat="45.53524569372546" lon="-122.94596505819790"/>
+				<Vertex lat="45.53524310461310" lon="-122.94593697894879"/>
+				<Vertex lat="45.53524844944357" lon="-122.94591476131382"/>
+				<Vertex lat="45.53526106621301" lon="-122.94589365034967"/>
+				<Vertex lat="45.53527929032091" lon="-122.94587343241932"/>
+				<Vertex lat="45.53529846563121" lon="-122.94586370582843"/>
+				<Vertex lat="45.53533007602795" lon="-122.94585763851683"/>
+				<Vertex lat="45.53534520312430" lon="-122.94585051745402"/>
+				<Vertex lat="45.53536529763055" lon="-122.94583492564891"/>
+				<Vertex lat="45.53538117338643" lon="-122.94581026723431"/>
+				<Vertex lat="45.53540432405941" lon="-122.94576385876101"/>
+				<Vertex lat="45.53559062700230" lon="-122.94539649170801"/>
+				<Vertex lat="45.53559798675493" lon="-122.94537400941248"/>
+				<Vertex lat="45.53560399070287" lon="-122.94533688347462"/>
+				<Vertex lat="45.53560449221697" lon="-122.94531647981410"/>
+				<Vertex lat="45.53559638816026" lon="-122.94528889381098"/>
+				<Vertex lat="45.53558654263948" lon="-122.94527083777427"/>
+				<Vertex lat="45.53557332353127" lon="-122.94525254151388"/>
+				<Vertex lat="45.53556373726455" lon="-122.94523851019206"/>
+				<Vertex lat="45.53554766205598" lon="-122.94521787748639"/>
+				<Vertex lat="45.53553736014862" lon="-122.94519961100652"/>
+				<Vertex lat="45.53552491937540" lon="-122.94518085657629"/>
+				<Vertex lat="45.53552382424448" lon="-122.94515775025120"/>
+				<Vertex lat="45.53602079178538" lon="-122.94567173584076"/>
+				<Vertex lat="45.53598181395342" lon="-122.94567426604921"/>
+				<Vertex lat="45.53596018298575" lon="-122.94568270581402"/>
+				<Vertex lat="45.53594074142342" lon="-122.94567842326566"/>
+				<Vertex lat="45.53592124280588" lon="-122.94567185807558"/>
+				<Vertex lat="45.53589473328658" lon="-122.94564564398820"/>
+				<Vertex lat="45.53587226333215" lon="-122.94562343903955"/>
+				<Vertex lat="45.53584747754638" lon="-122.94560954902298"/>
+				<Vertex lat="45.53582619980764" lon="-122.94561420092525"/>
+				<Vertex lat="45.53580735443887" lon="-122.94562672119390"/>
+				<Vertex lat="45.53579155553180" lon="-122.94564723401946"/>
+				<Vertex lat="45.53576940082149" lon="-122.94568538177076"/>
+				<Vertex lat="45.53574539432289" lon="-122.94573030979753"/>
+				<Vertex lat="45.53571947843965" lon="-122.94578097132832"/>
+				<Vertex lat="45.53569431809452" lon="-122.94583761753755"/>
+				<Vertex lat="45.53566723599166" lon="-122.94588016772977"/>
+				<Vertex lat="45.53565496805508" lon="-122.94592379403169"/>
+				<Vertex lat="45.53565432010178" lon="-122.94595945195186"/>
+				<Vertex lat="45.53565973624288" lon="-122.94599634903118"/>
+				<Vertex lat="45.53565593830742" lon="-122.94604630836341"/>
+				<Vertex lat="45.53564070682854" lon="-122.94607785524479"/>
+				<Vertex lat="45.53561786681626" lon="-122.94610649794328"/>
+				<Vertex lat="45.53559298513517" lon="-122.94611350709421"/>
+				<Vertex lat="45.53556490797210" lon="-122.94612247803838"/>
+				<Vertex lat="45.53554319703786" lon="-122.94613363359073"/>
+				<Vertex lat="45.53552936927308" lon="-122.94614778234158"/>
+				<Vertex lat="45.53551829390193" lon="-122.94618028814354"/>
+				<Vertex lat="45.53551113221836" lon="-122.94621762877942"/>
+				<Vertex lat="45.53551932139516" lon="-122.94625322923731"/>
+				<Vertex lat="45.53553688792618" lon="-122.94628629810100"/>
+				<Vertex lat="45.53555632360286" lon="-122.94631395596055"/>
+				<Vertex lat="45.53557103631266" lon="-122.94633847755352"/>
+				<Vertex lat="45.53557895054895" lon="-122.94637768601245"/>
+				<Vertex lat="45.53558021588416" lon="-122.94641895633866"/>
+				<Vertex lat="45.53558030847751" lon="-122.94644836098060"/>
+				<Vertex lat="45.53559513977203" lon="-122.94648727038363"/>
+				<Vertex lat="45.53563836131561" lon="-122.94653784317353"/>
+				<Vertex lat="45.53550296631002" lon="-122.94675982527650"/>
+				<Vertex lat="45.53531284657171" lon="-122.94657290765537"/>
+				<Vertex lat="45.53526928990281" lon="-122.94653398492559"/>
+				<Vertex lat="45.53523824680937" lon="-122.94652094581770"/>
+				<Vertex lat="45.53521401370784" lon="-122.94652513192098"/>
+				<Vertex lat="45.53519311939127" lon="-122.94653338652553"/>
+				<Vertex lat="45.53516210973185" lon="-122.94654692775275"/>
+				<Vertex lat="45.53515191535892" lon="-122.94655112652734"/>
+				<Vertex lat="45.53514877650333" lon="-122.94654012877785"/>
+				<Vertex lat="45.53493505510389" lon="-122.94663704387152"/>
+				<Vertex lat="45.53488333100463" lon="-122.94644184550877"/>
+				<Vertex lat="45.53493720630169" lon="-122.94642576901916"/>
+				<Vertex lat="45.53498882045296" lon="-122.94636927857000"/>
+				<Vertex lat="45.53501445604223" lon="-122.94631103156706"/>
+				<Vertex lat="45.53501010087437" lon="-122.94625543626609"/>
+				<Vertex lat="45.53479137088627" lon="-122.94601600028086"/>
+				<Vertex lat="45.53473494468560" lon="-122.94599066240032"/>
+				<Vertex lat="45.53469863649548" lon="-122.94599651281457"/>
+				<Vertex lat="45.53466935144537" lon="-122.94602501623520"/>
+				<Vertex lat="45.53465901559501" lon="-122.94604580248145"/>
+			</Apron>
+		</Aprons>
 		<PaintedElements>
 			<PaintedLine type="EDGE_LINE_SOLID" trueAngle="NONE">
 				<Vertex lat="45.53309249552829" lon="-122.95172771494482"/>
@@ -5215,7 +5573,6 @@
 				<Vertex lat="45.53776488513534" lon="-122.94654112320255"/>
 				<Vertex lat="45.53776897477858" lon="-122.94664000502678"/>
 			</EdgeLights>
-			<EdgeLights/>
 			<EdgeLights>
 				<Vertex lat="45.53984199934975" lon="-122.94972180004497"/>
 				<Vertex lat="45.53980118778635" lon="-122.94976363899501"/>
@@ -5458,6 +5815,7 @@
 				<Vertex lat="45.54225893794079" lon="-122.94266748842803"/>
 				<Vertex lat="45.54222078813784" lon="-122.94260005058510"/>
 			</EdgeLights>
+			<EdgeLights/>
 			<EdgeLights>
 				<Vertex lat="45.54230178970683" lon="-122.95228067530012"/>
 				<Vertex lat="45.54220515676906" lon="-122.95227577509463"/>
